@@ -1,0 +1,7 @@
+name: Release Node.js app
+# On a push to the branch named main
+
+on:
+  push:
+    branches:
+      - main
